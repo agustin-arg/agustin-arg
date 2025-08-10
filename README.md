@@ -1,4 +1,4 @@
-# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/lottie.json" width="30"/> Hola, soy Agustín en modo aprendizaje constante
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/lottie.json" width="30"/> Hola, soy Agustín en modo aprendizaje constante
 
 Buscando siempre el equilibrio entre creatividad y precisión
 
