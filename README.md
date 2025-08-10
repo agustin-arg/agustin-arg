@@ -9,12 +9,20 @@
 
 </div>
 
+#
+
+- 💻 Estoy cursando la carrera de Ingeniería en Computación
+- 📖 Tengo una gran pasión por aprender de forma independiente y explorar nuevos temas
+- 🚀 Me encanta asumir retos que me impulsen a desarrollarme profesionalmente
+- ✉️ ¿Te gustaría conversar conmigo? ¡Envíame un mensaje!
+
+    ![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fagust%25C3%25ADn-leiva-8176a0368%2F)
+
+
 <div align="center">
 
 ## 🚀 Lenguajes y herramientas
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" />
-
 </div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" />  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" />
+
+
