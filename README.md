@@ -4,7 +4,7 @@
 
 ## 📌 Sobre Mí
 
-- � **Carrera**: Ingeniería en Computación  
+- 📖 **Carrera**: Ingeniería en Computación  
 - 📍 **Ubicación**: Argentina  
 - 💼 **Posición Actual**: En modo aprendizaje constante  
 - 💬 **Pregúntame sobre**: Bases de datos, Desarrollo de software, Tecnología, Aprendizaje    
