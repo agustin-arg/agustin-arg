@@ -1,28 +1,30 @@
-<div align="center">
+# 👋 Hola, soy Agustín
 
-# <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="40" height="40"></picture> Hola, soy Agustín en modo aprendizaje constante
+¡Bienvenido a mi GitHub! Soy apasionado por las ciencias de la computación, la inteligencia artificial y el desarrollo de software.
 
-#### Buscando siempre el equilibrio entre creatividad y precisión <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f642_200d_2195_fe0f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f642_200d_2195_fe0f/512.gif" alt="🙂" width="20" height="20">
-</picture>
+## 📌 Sobre Mí
 
-</div>
+- � **Carrera**: Ingeniería en Computación  
+- 📍 **Ubicación**: Argentina  
+- 💼 **Posición Actual**: En modo aprendizaje constante  
+- 💬 **Pregúntame sobre**: Bases de datos, Desarrollo de software, Tecnología, Aprendizaje    
 
-#
+## 🛠️ Habilidades y Tecnologías
 
-- 💻 Estoy cursando la carrera de Ingeniería en Computación
-- 📖 Tengo una gran pasión por aprender de forma independiente y explorar nuevos temas
-- 🚀 Me encanta asumir retos que me impulsen a desarrollarme profesionalmente
-- ✉️ ¿Te gustaría conversar conmigo? ¡Envíame un mensaje!
+Estas son algunas de las herramientas y tecnologías con las que me gusta trabajar:
 
-    ![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fagust%25C3%25ADn-leiva-8176a0368%2F)
+- **Lenguajes**: Python, JavaScript, etc.  
+- **Herramientas**: Git, GitHub, Linux, etc.  
+- **Otros**: Herramientas de automatización, plataformas en la nube, etc.  
 
+## 📫 Contáctame
 
-<div align="center">
+- 💼 [LinkedIn](https://www.linkedin.com/in/agustín-leiva-8176a0368/)  
 
-## 🚀 Lenguajes y herramientas
-</div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" />  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" />
+---
+
+¡Siéntete libre de explorar mis repositorios o contactarme si tienes alguna pregunta o quieres colaborar! 😄
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agustin-arg&layout=compact)
 
 
