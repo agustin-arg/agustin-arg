@@ -19,7 +19,7 @@ Estas son algunas de las herramientas y tecnologías con las que me gusta trabaj
 
 ## 📫 Contáctame
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/agustín-leiva-8176a0368/)  
+- 💼 [LinkedIn](www.linkedin.com/in/agustín-alberto-leiva)  
 
 ---
 
