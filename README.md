@@ -26,9 +26,9 @@ Estas son algunas de las herramientas y tecnologías con las que me gusta trabaj
 ¡Siéntete libre de explorar mis repositorios o contactarme si tienes alguna pregunta o quieres colaborar! 😄
 
 ## :zap: 💻Actividad resiente
-<!--RECENT_ACTITIVY:start-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--RECENT_ACTITIVY:last_update-->
+<!--RECENT_ACTIVITY:last_update-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agustin-arg&layout=compact)
 
