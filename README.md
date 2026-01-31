@@ -36,7 +36,8 @@ Estas son algunas de las herramientas y tecnologías con las que me gusta trabaj
 
 ## 📊 Estadísticas
 
-![Lenguajes por repo](./profile-summary-card-output/repos_per_language.svg)
-![Lenguajes por commits](./profile-summary-card-output/most_commit_language.svg)
+
+[![](https://raw.githubusercontent.com/agustin-arg/agustin-arg/main/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)\
+[![](https://raw.githubusercontent.com/agustin-arg/agustin-arg/main/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/agustin-arg/agustin-arg/main/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
