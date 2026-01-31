@@ -25,7 +25,7 @@ Estas son algunas de las herramientas y tecnologías con las que me gusta trabaj
 
 ¡Siéntete libre de explorar mis repositorios o contactarme si tienes alguna pregunta o quieres colaborar! 😄
 
-## :zap: 💻Actividad resiente
+## 💻Actividad resiente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [agustin-arg/agustin-arg](https://github.com/agustin-arg/agustin-arg)<br>
 2. ⬆️ Pushed undefined commit(s) to [agustin-arg/Posture](https://github.com/agustin-arg/Posture)<br>
@@ -34,10 +34,9 @@ Estas son algunas de las herramientas y tecnologías con las que me gusta trabaj
 5. ⬆️ Pushed undefined commit(s) to [agustin-arg/agustin-arg](https://github.com/agustin-arg/agustin-arg)<br>
 <!--RECENT_ACTIVITY:end-->
 
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 31st, 2026, 8:41:07 PM
-<!--RECENT_ACTIVITY:last_update_end-->
+## 📊 Estadísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agustin-arg&layout=compact)
+![Lenguajes por repo](./profile-summary-card-output/repos_per_language.svg)
+![Lenguajes por commits](./profile-summary-card-output/most_commit_language.svg)
 
 
