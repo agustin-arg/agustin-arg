@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: "* */24 * * *"
+    - cron: "0 */24 * * *"
   workflow_dispatch:
 
 jobs:
@@ -19,7 +19,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          CONFIG_FILE: |
-            settings:
-              ignored_repos:
-                - agustin-arg/agustin-arg
+          CONFIG_FILE: ./.github/recent-activity.config.yml

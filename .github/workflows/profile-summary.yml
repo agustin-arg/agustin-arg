@@ -1,26 +1,21 @@
-name: GitHub-Profile-Summary-Cards
+name: GitHub Profile Summary Cards
 
 on:
   schedule:
-    - cron: "* */24 * * *"
+    - cron: "0 */24 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-summary-cards
     permissions:
       contents: write
-
+    
     steps:
       - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env: 
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          USERNAME: ${{ github.repository_owner }}
-          THEME: "algolia"
-          BRANCH_NAME: "main" 
-          UTC_OFFSET: 8      
-          AUTO_PUSH: true     
+          THEME: "algolia"  
           EXCLUDE: apprentice,aura_dark,aura,ayu_mirage,bear,blue_green,blueberry,buefy,calm,chartreuse_dark,city_lights,cobalt2,cobalt,codeSTACKr,darcula,dark,date_night,default,discord_old_blurple,dracula,flag_india,github_dark,github,gotham,graywhite,great_gatsby,gruvbox,highcontrast,jolly,kacho_ga,maroongold,material_palenight,merko,midnight_purple,moltack,monokai,moonlight,nightowl,noctis_minimus,nord_bright,nord_dark,ocean_dark,omni,onedark,outrun,panda,prussian,radical,react,rose_pine,shades_of_purple,slateorange,solarized_dark,solarized,swift,synthwave,tokyonight,transparent,vision_friendly_dark,vue,yeblu,zenburn
