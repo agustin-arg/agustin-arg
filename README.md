@@ -27,11 +27,6 @@ Estas son algunas de las herramientas y tecnologías con las que me gusta trabaj
 
 ## 💻Actividad resiente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [agustin-arg/agustin-arg](https://github.com/agustin-arg/agustin-arg)<br>
-2. ⬆️ Pushed undefined commit(s) to [agustin-arg/agustin-arg](https://github.com/agustin-arg/agustin-arg)<br>
-3. ⬆️ Pushed undefined commit(s) to [agustin-arg/Posture](https://github.com/agustin-arg/Posture)<br>
-4. ⬆️ Pushed undefined commit(s) to [agustin-arg/agustin-arg](https://github.com/agustin-arg/agustin-arg)<br>
-5. ⬆️ Pushed undefined commit(s) to [agustin-arg/agustin-arg](https://github.com/agustin-arg/agustin-arg)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Estadísticas
