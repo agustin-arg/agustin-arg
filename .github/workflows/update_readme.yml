@@ -16,6 +16,5 @@ jobs:
       - uses: Readme-Workflows/recent-activity@v2.4.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          IGNORED_REPOS: "agustin-arg/agustin-arg"
-          DISABLE_ACTIVITY_TIMESTAMP: true
+          REPOS_TO_IGNORE: "agustin-arg/agustin-arg"
+          DISABLE_TIMESTAMP: "true"

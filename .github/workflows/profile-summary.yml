@@ -20,3 +20,4 @@ jobs:
         with:
           USERNAME: agustin-arg
           THEME: algolia
+          EXCLUDE: "2077, apprentice, aura_dark, aura, ayu_mirage, bear, blue_green, blueberry, buefy, calm, chartreuse_dark, city_lights, cobalt2, cobalt, codeSTACKr, darcula, dark, date_night, default, discord_old_blurple, dracula, flag_india, github_dark, github, gotham, graywhite, great_gatsby, gruvbox, highcontrast, jolly, kacho_ga, maroongold, material_palenight, merko, midnight_purple, moltack, monokai, moonlight, nightowl, noctis_minimus, nord_bright, nord_dark, ocean_dark, omni, onedark, outrun, panda, prussian, radical, react, rose_pine, shades_of_purple, slateorange, solarized_dark, solarized, swift, synthwave, tokyonight, transparent, vision_friendly_dark, vue, yeblu, zenburn"
