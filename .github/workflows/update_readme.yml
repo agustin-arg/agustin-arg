@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "* */24 * * *"
   workflow_dispatch:
 
 jobs:
@@ -14,9 +14,12 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4.2.2
-      
+
       - uses: Readme-Workflows/recent-activity@v2.4.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          REPOS_TO_IGNORE: "agustin-arg/agustin-arg"
-          DISABLE_TIMESTAMP: "true"
+        with:
+          CONFIG_FILE: |
+            settings:
+              ignored_repos:
+                - agustin-arg/agustin-arg
