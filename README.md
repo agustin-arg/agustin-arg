@@ -13,9 +13,10 @@
 
 Estas son algunas de las herramientas y tecnologías con las que me gusta trabajar:
 
-- **Lenguajes**: Python, JavaScript, etc.  
-- **Herramientas**: Git, GitHub, Linux, etc.  
-- **Otros**: Herramientas de automatización, plataformas en la nube, etc.  
+- **Lenguajes**: Python.
+- **Frameworks**: FastAPI.
+- **Bases de datos**: MySQL y PostgreSQL.
+- **Herramientas**: Git, GitHub y Docker.
 
 ## 📫 Contáctame
 
