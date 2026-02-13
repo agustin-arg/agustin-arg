@@ -18,4 +18,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           THEME: "algolia"  
-          EXCLUDE: "jupyter notebook"
+          EXCLUDE: "Jupyter Notebook,jupyter notebook,ipynb"
